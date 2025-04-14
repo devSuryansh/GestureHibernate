@@ -15,7 +15,7 @@ Currently, it supports:
 
 ```
 
-devSuryansh-gesturehibernate/
+devSuryansh/GestureHibernate/
 ├── byebye.py # Detects waving gesture (open palm left-right)
 └── middlefinger.py # Detects middle finger gesture
 
@@ -28,8 +28,8 @@ devSuryansh-gesturehibernate/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/devSuryansh/gesturehibernate.git
-cd gesturehibernate
+git clone https://github.com/devSuryansh/GestureHibernate.git
+cd GestureHibernate
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
