@@ -5,7 +5,7 @@ import platform
 import time
 
 # ----- CONFIG -----
-ENABLE_HIBERNATE = False
+ENABLE_HIBERNATE = True
 HIBERNATE_DELAY = 0
 # ------------------
 
